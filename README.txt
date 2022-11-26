@@ -1,0 +1,1 @@
+How to run main.py?All the required codes are zipped in a folder. Simply extract the files and open the folder as a project using Pycharm or another IDE.ÊTo run the main.py code, un-comment the required lake and press run. 
